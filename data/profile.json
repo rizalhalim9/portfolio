@@ -1,0 +1,33 @@
+{
+    "name": "Aminuddin Rizal (林安明)- Lecturer Computer and Electronic Engineering",
+    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
+    "profileImage": "images/profile.jpg",
+    "email": "aminuddin.rizal@polines.ac.id",
+    "phone": "+62 (851) 324-78890",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/aminuddin-rizal128"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/rizalhalim9"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com/redpandalin"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+	"skills": [
+        {"name": "CAD Modeling", "icon": "fas fa-cube", "level": 90},
+        {"name": "Finite Element Analysis", "icon": "fas fa-project-diagram", "level": 85},
+        {"name": "3D Printing", "icon": "fas fa-print", "level": 80},
+        {"name": "Python", "icon": "fab fa-python", "level": 75},
+        {"name": "Project Management", "icon": "fas fa-tasks", "level": 85}
+    ]
+}
