@@ -23,11 +23,15 @@
 			"file": "docs/cv.pdf",
 			"icon": "fas fa-file-pdf"
 	},
-	"skills": [
-        {"name": "CAD Modeling", "icon": "fas fa-cube", "level": 90},
-        {"name": "Finite Element Analysis", "icon": "fas fa-project-diagram", "level": 85},
-        {"name": "3D Printing", "icon": "fas fa-print", "level": 80},
-        {"name": "Python", "icon": "fab fa-python", "level": 75},
-        {"name": "Project Management", "icon": "fas fa-tasks", "level": 85}
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
     ]
 }
